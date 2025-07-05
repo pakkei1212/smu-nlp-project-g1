@@ -1,0 +1,179 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "description": "Singapore local terms dictionary",
+    "last_updated": "2024-01-01",
+    "source": "CS614 Group Project"
+  },
+  "languages": {
+    "malay": {
+      "places": {
+        "kampong_glam": {
+          "primary": "Kampong Glam",
+          "alternatives": [
+            "Kampung Glam",
+            "Kampong Gelam"
+          ],
+          "type": "district",
+          "description": "Historic Malay-Arab quarter",
+          "context": [
+            "heritage",
+            "cultural",
+            "mosque",
+            "arab_street"
+          ]
+        },
+        "bugis": {
+          "primary": "Bugis",
+          "alternatives": [
+            "Bugis Street",
+            "Bugis Junction"
+          ],
+          "type": "district",
+          "description": "Shopping and entertainment district",
+          "context": [
+            "shopping",
+            "entertainment",
+            "mrt"
+          ]
+        }
+      },
+      "cultural_terms": {
+        "trishaw": {
+          "primary": "trishaw",
+          "alternatives": [
+            "tri-shaw",
+            "beca"
+          ],
+          "type": "transport",
+          "description": "Three-wheeled bicycle taxi",
+          "context": [
+            "transport",
+            "tourism",
+            "traditional"
+          ]
+        }
+      }
+    },
+    "tamil": {
+      "places": {
+        "sri_veeramakaliamman": {
+          "primary": "Sri Veeramakaliamman Temple",
+          "alternatives": [
+            "Sri Veeramakaliamman",
+            "Veeramakaliamman Temple"
+          ],
+          "type": "temple",
+          "description": "Hindu temple in Little India",
+          "context": [
+            "religious",
+            "hindu",
+            "little_india"
+          ]
+        },
+        "little_india": {
+          "primary": "Little India",
+          "alternatives": [
+            "Little India District",
+            "Serangoon Road"
+          ],
+          "type": "district",
+          "description": "Tamil cultural district",
+          "context": [
+            "cultural",
+            "tamil",
+            "indian",
+            "heritage"
+          ]
+        }
+      }
+    },
+    "chinese": {
+      "places": {
+        "thian_hock_keng": {
+          "primary": "Thian Hock Keng Temple",
+          "alternatives": [
+            "天福宫",
+            "Thian Hock Keng",
+            "Tian Fu Gong"
+          ],
+          "type": "temple",
+          "description": "Oldest Chinese temple in Singapore",
+          "context": [
+            "religious",
+            "chinese",
+            "heritage",
+            "chinatown"
+          ]
+        },
+        "chinatown": {
+          "primary": "Chinatown",
+          "alternatives": [
+            "China Town",
+            "牛车水",
+            "Niu Che Shui"
+          ],
+          "type": "district",
+          "description": "Historic Chinese district",
+          "context": [
+            "chinese",
+            "heritage",
+            "cultural",
+            "food"
+          ]
+        }
+      },
+      "food": {
+        "bak_kut_teh": {
+          "primary": "Bak Kut Teh",
+          "alternatives": [
+            "肉骨茶",
+            "bak kut teh",
+            "pork rib soup"
+          ],
+          "type": "food",
+          "description": "Pork rib soup dish",
+          "context": [
+            "food",
+            "chinese",
+            "local_cuisine"
+          ]
+        }
+      }
+    },
+    "english": {
+      "places": {
+        "marina_bay": {
+          "primary": "Marina Bay",
+          "alternatives": [
+            "Marina Bay Sands",
+            "MBS"
+          ],
+          "type": "district",
+          "description": "Modern waterfront district",
+          "context": [
+            "modern",
+            "tourism",
+            "casino",
+            "skyline"
+          ]
+        },
+        "sentosa": {
+          "primary": "Sentosa",
+          "alternatives": [
+            "Sentosa Island",
+            "Resort World Sentosa"
+          ],
+          "type": "island",
+          "description": "Resort island destination",
+          "context": [
+            "tourism",
+            "beaches",
+            "theme_parks",
+            "resort"
+          ]
+        }
+      }
+    }
+  }
+}

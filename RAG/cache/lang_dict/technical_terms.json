@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "description": "Technical assembly terms dictionary",
+    "last_updated": "2024-01-01",
+    "source": "CS614 Group Project"
+  },
+  "categories": {
+    "assembly_terms": {
+      "cement": {
+        "primary": "cement",
+        "alternatives": [
+          "glue",
+          "adhesive",
+          "bond"
+        ],
+        "type": "action",
+        "description": "To attach parts permanently",
+        "context": [
+          "assembly",
+          "permanent",
+          "adhesive"
+        ]
+      },
+      "locate": {
+        "primary": "locate",
+        "alternatives": [
+          "position",
+          "place",
+          "fit"
+        ],
+        "type": "action",
+        "description": "To position a part in the correct place",
+        "context": [
+          "assembly",
+          "positioning",
+          "placement"
+        ]
+      }
+    },
+    "parts": {
+      "chassis": {
+        "primary": "chassis",
+        "alternatives": [
+          "frame",
+          "body frame",
+          "main frame"
+        ],
+        "type": "component",
+        "description": "Main structural frame",
+        "context": [
+          "structure",
+          "frame",
+          "foundation"
+        ]
+      }
+    }
+  }
+}

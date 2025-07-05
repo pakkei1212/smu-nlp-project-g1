@@ -1,0 +1,241 @@
+persona,query
+Explorer,I want to visit places that are off the beaten path.
+Explorer,Looking for hidden gems to explore in Singapore.
+Explorer,I prefer less touristy destinations full of local culture.
+Explorer,Where can I go to get lost in nature and culture?
+Explorer,Suggest countries that are not mainstream for travel.
+Explorer,I enjoy going where few others go.
+Explorer,Unusual travel ideas welcome!
+Explorer,Love discovering places not yet overrun by tourists.
+Explorer,Looking for authentic travel experiences.
+Explorer,Interested in local life over big attractions.
+Explorer,What are some underrated cities to visit?
+Explorer,Seeking destinations that are culturally rich but not crowded.
+Explorer,I travel to challenge myself and step out of my comfort zone.
+Explorer,"Adventurous journeys off the grid, please!"
+Explorer,"I’m into authentic experiences, not commercial ones."
+Explorer,I want to backpack through undiscovered regions.
+Explorer,Can you suggest a rural destination with cultural depth?
+Explorer,I’d like to meet locals and avoid typical tourist traps.
+Explorer,Where can I stay in a village or small town abroad?
+Explorer,"My trips are about exploration, not relaxation."
+Planner,Can you help plan my entire 10-day trip to Singapore?
+Planner,Looking for a detailed itinerary for Singapore.
+Planner,Want to plan everything from flights to museums in advance.
+Planner,Help me schedule daily activities for my trip.
+Planner,I like booking everything before I travel.
+Planner,Planning early to avoid last-minute stress.
+Planner,I want all the logistics sorted out ahead of time.
+Planner,Looking for a trip with a clear timeline.
+Planner,"Want to pre-book all hotels, activities, and transport."
+Planner,Give me an optimized itinerary for Singapore.
+Planner,I travel with a checklist and like to stick to it.
+Planner,Need a planner tool for my next vacation.
+Planner,Can you generate a travel plan with durations?
+Planner,I organize everything on spreadsheets for travel.
+Planner,Interested in itinerary optimization tools.
+Planner,Give me an hour-by-hour travel breakdown.
+Planner,Want to book all entry tickets in advance.
+Planner,Like to schedule museum visits and restaurants early.
+Planner,"I hate surprises while traveling, everything must be ready."
+Planner,Give me route plans for efficient travel.
+Relaxer,Just want to chill at a beach resort.
+Relaxer,Looking for somewhere peaceful to unwind.
+Relaxer,"No tours, just poolside drinks and naps."
+Relaxer,Need a vacation with zero stress.
+Relaxer,Suggest all-inclusive resorts to relax.
+Relaxer,A place to do nothing for a week.
+Relaxer,Looking for spa resorts or wellness retreats.
+Relaxer,Want to relax by the sea without moving much.
+Relaxer,"Don’t want a jam-packed schedule, just rest."
+Relaxer,Resorts with private beaches or villas?
+Relaxer,I want a slow-paced holiday.
+Relaxer,Suggest quiet islands or countryside getaways.
+Relaxer,Looking for scenic views and minimal activity.
+Relaxer,"Not into touristy spots, prefer peace and quiet."
+Relaxer,Any recommendations for adult-only resorts?
+Relaxer,Looking for a romantic but relaxing vacation.
+Relaxer,What’s the most chill beach in Southeast Singapore?
+Relaxer,"No sightseeing, just good food and sun."
+Relaxer,A peaceful escape from work.
+Relaxer,Prefer staying in one place the whole trip.
+Culture Seeker,Where can I see ancient architecture and local traditions?
+Culture Seeker,Interested in art museums and cultural sites.
+Culture Seeker,Looking for cities with rich historical backgrounds.
+Culture Seeker,I travel to learn about other civilizations.
+Culture Seeker,I love folk performances and traditional crafts.
+Culture Seeker,Prefer destinations with cultural festivals.
+Culture Seeker,I want to understand the heritage of the place.
+Culture Seeker,Looking for cultural immersion opportunities.
+Culture Seeker,I enjoy walking through historical districts.
+Culture Seeker,Which destinations offer great cultural tours?
+Culture Seeker,I want to experience traditional food and rituals.
+Culture Seeker,Give me cities with deep cultural significance.
+Culture Seeker,I prioritize museums and history over beaches.
+Culture Seeker,Can you suggest places with strong cultural identity?
+Culture Seeker,Love places with UNESCO heritage sites.
+Culture Seeker,Cultural depth matters more than sightseeing.
+Culture Seeker,"Seeking experiences in language, religion, and rituals."
+Culture Seeker,"Old towns, temples, and monuments are my thing."
+Culture Seeker,Planning a trip centered around history and art.
+Culture Seeker,"I enjoy local storytelling, architecture, and culture."
+Foodie,Which cities are best for food lovers?
+Foodie,I travel for unique culinary experiences.
+Foodie,I want to try street food and local delicacies.
+Foodie,Looking for the best places to eat in Singapore.
+Foodie,Give me a food tour of Italy.
+Foodie,I want to learn cooking from locals.
+Foodie,Dining experiences are my top priority.
+Foodie,Which places are known for their desserts?
+Foodie,Suggest wine and cheese trails in Singapore.
+Foodie,I plan my trip around food festivals.
+Foodie,Recommend cities with Michelin star restaurants.
+Foodie,What’s the street food scene like in Vietnam?
+Foodie,I love local markets and food tastings.
+Foodie,Food is my main reason to travel.
+Foodie,Any places famous for unique drinks or snacks?
+Foodie,I’d love to explore the regional food culture.
+Foodie,Please suggest food-centric travel experiences.
+Foodie,Where can I attend a culinary workshop abroad?
+Foodie,Food documentaries inspire my travel destinations.
+Foodie,I want to visit farms and try local ingredients.
+Backpacker,Looking for cheap places to backpack in Singapore.
+Backpacker,I need hostel recommendations for Southeast Singapore.
+Backpacker,Traveling solo on a shoestring budget.
+Backpacker,Open to volunteering for free accommodation.
+Backpacker,Want to meet other travelers at backpacker spots.
+Backpacker,Which cities are best for budget travelers?
+Backpacker,Backpacking across Singapore this summer.
+Backpacker,Help me plan a low-cost multi-country trip.
+Backpacker,I prefer hostels and night buses over comfort.
+Backpacker,How to travel India as a backpacker?
+Backpacker,Looking for youth travel advice and tips.
+Backpacker,"I'm flexible with plans, just want to go."
+Backpacker,Need affordable options for long-term travel.
+Backpacker,I don't mind roughing it if it's cheap.
+Backpacker,Suggest destinations ideal for couchsurfing.
+Backpacker,How to travel with just one bag?
+Backpacker,Which cities have backpacker-friendly communities?
+Backpacker,I enjoy spontaneous and low-cost trips.
+Backpacker,I avoid tourist traps and spend like a local.
+Backpacker,"My travel budget is very limited, any suggestions?"
+Luxury Traveler,Looking for 5-star resorts in the Singapore.
+Luxury Traveler,I want a private jet experience and premium hotels.
+Luxury Traveler,Which cruises offer luxury amenities?
+Luxury Traveler,Suggest luxury honeymoon destinations.
+Luxury Traveler,Only interested in business or first-class flights.
+Luxury Traveler,Recommend destinations with elite travel experiences.
+Luxury Traveler,I want a luxury safari with top-tier service.
+Luxury Traveler,Where can I rent a luxury villa?
+Luxury Traveler,High-end spa resorts with ocean views?
+Luxury Traveler,Looking for private chefs and butler service.
+Luxury Traveler,Best luxury resorts for couples?
+Luxury Traveler,I want private tours with personalized guides.
+Luxury Traveler,I prefer hotels with concierge-level amenities.
+Luxury Traveler,Suggest exclusive island experiences.
+Luxury Traveler,Looking for top-rated luxury trains.
+Luxury Traveler,Luxury and privacy are non-negotiables.
+Luxury Traveler,I want to avoid crowds and get VIP treatment.
+Luxury Traveler,Give me 7-star hotel experiences.
+Luxury Traveler,Suggest luxury experiences in Singapore.
+Luxury Traveler,Private transportation and exclusive access only.
+Nature Lover,Looking for beautiful national parks to hike.
+Nature Lover,I want to be close to mountains and lakes.
+Nature Lover,Prefer outdoor scenery to cities.
+Nature Lover,Planning a trip to reconnect with nature.
+Nature Lover,Recommend places for wildlife watching.
+Nature Lover,I love stargazing and nature photography.
+Nature Lover,Interested in eco-lodges and natural settings.
+Nature Lover,Nature walks and bird watching destinations?
+Nature Lover,Avoiding cities — want forests or mountains.
+Nature Lover,Camping sites or nature stays?
+Nature Lover,Seeking serene landscapes and greenery.
+Nature Lover,Want to visit islands or jungles.
+Nature Lover,I feel most alive in nature.
+Nature Lover,Looking for waterfall hikes or scenic trails.
+Nature Lover,National parks with minimal tourists?
+Nature Lover,Desert landscapes or volcanic zones to explore?
+Nature Lover,Forest bathing or outdoor yoga retreats?
+Nature Lover,Any place for natural hot springs?
+Nature Lover,Remote nature retreats away from crowds.
+Nature Lover,Traveling to breathe clean air and hike daily.
+Digital Nomad,Looking for remote work-friendly cities.
+Digital Nomad,Where can I work and live abroad long-term?
+Digital Nomad,Need great Wi-Fi and co-working cafes.
+Digital Nomad,I’m a freelancer traveling the world — help?
+Digital Nomad,Suggest nomad hubs with good internet.
+Digital Nomad,What are top cities for digital nomads?
+Digital Nomad,Need co-living spaces with like-minded travelers.
+Digital Nomad,Visa options for remote workers?
+Digital Nomad,I work and travel — best spots to balance both?
+Digital Nomad,Suggest peaceful work environments abroad.
+Digital Nomad,Which countries offer digital nomad visas?
+Digital Nomad,Internet speed is my top priority.
+Digital Nomad,Any tropical places with work infrastructure?
+Digital Nomad,I need monthly rentals with desks.
+Digital Nomad,Suggest flexible accommodation with strong internet.
+Digital Nomad,Co-working and weekend adventure combos?
+Digital Nomad,I want to join a digital nomad community.
+Digital Nomad,Suggest places with networking events for travelers.
+Digital Nomad,How to balance remote work and travel?
+Digital Nomad,I travel slowly and work online — best destinations?
+Family Traveler,Need kid-friendly destinations with safe activities.
+Family Traveler,Looking for amusement parks and child attractions.
+Family Traveler,Traveling with toddlers — what to pack?
+Family Traveler,Prefer family resorts with child care services.
+Family Traveler,Need vacation ideas for family bonding.
+Family Traveler,Where can we find family-sized suites?
+Family Traveler,Need short flights and easy travel.
+Family Traveler,Any destinations with interactive museums for kids?
+Family Traveler,Looking for family road trip ideas.
+Family Traveler,Want to avoid nightlife and party places.
+Family Traveler,Resorts with playgrounds or kids’ pools?
+Family Traveler,Which cities are stroller-friendly?
+Family Traveler,Need medical facilities nearby while traveling.
+Family Traveler,Educational yet fun experiences for kids?
+Family Traveler,I want to create memories with my family.
+Family Traveler,How to travel with teens and keep them engaged?
+Family Traveler,Looking for child discounts on attractions.
+Family Traveler,Suggestions for multigenerational family trips?
+Family Traveler,Which airlines are most family-friendly?
+Family Traveler,Family beach vacations with safety and fun?
+Romantic,Looking for honeymoon spots with privacy.
+Romantic,Want romantic views and candlelit dinners.
+Romantic,Any cozy mountain lodges for couples?
+Romantic,Looking for places to celebrate our anniversary.
+Romantic,Seaside resorts with sunset views?
+Romantic,Best cities for a romantic weekend?
+Romantic,Private beaches or villas for two?
+Romantic,Love experiences like gondola rides or wine tasting.
+Romantic,Want to avoid crowds for couple time.
+Romantic,Suggest romantic small towns in Singapore.
+Romantic,Luxury resorts for couples only?
+Romantic,Prefer adults-only quiet stays.
+Romantic,What’s a good couples spa retreat?
+Romantic,I want to surprise my partner with a getaway.
+Romantic,We’re looking for scenic walks and sunsets.
+Romantic,Romantic boutique hotels?
+Romantic,Suggest a mountain escape with fireplaces.
+Romantic,We want to reconnect and relax somewhere nice.
+Romantic,Looking for dreamy destinations on a budget.
+Romantic,Planning a romantic getaway just for two.
+Social Butterfly,Which cities have the best nightlife?
+Social Butterfly,Looking for social hostels and pub crawls.
+Social Butterfly,Where can I meet other solo travelers?
+Social Butterfly,I like group tours and mingling with others.
+Social Butterfly,Suggest party islands or beach clubs.
+Social Butterfly,I want to make friends on my trip.
+Social Butterfly,Festivals or events happening this month?
+Social Butterfly,Any social travel apps or communities?
+Social Butterfly,Looking for cities with open social culture.
+Social Butterfly,Best destinations for solo female travelers?
+Social Butterfly,Where can I dance and enjoy music events?
+Social Butterfly,I want to attend a cultural street festival.
+Social Butterfly,Group hiking or adventure activities?
+Social Butterfly,I love places where people gather.
+Social Butterfly,Looking for trips with group bonding.
+Social Butterfly,"Night markets, concerts, and busy plazas?"
+Social Butterfly,Which cities never sleep?
+Social Butterfly,Party cruises or fun trains?
+Social Butterfly,Solo traveler but love meeting people.
+Social Butterfly,Want to make friends from around the world.

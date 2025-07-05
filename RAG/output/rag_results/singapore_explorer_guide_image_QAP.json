@@ -1,0 +1,12 @@
+{
+  "singapore_tourist_sights_query": {
+    "query": "singapore tourist sights",
+    "results": []
+  },
+  "singapore_explorer_guide_image_pg3_query": {
+    "error": "No image found on page 3 of singapore_explorer_guide_image.pdf"
+  },
+  "singapore_explorer_guide_image_pg6_specific_query": {
+    "error": "No image found on page 6 of singapore_explorer_guide_image.pdf"
+  }
+}

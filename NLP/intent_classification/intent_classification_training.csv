@@ -1,0 +1,506 @@
+text,intent
+I want to visit Marina Bay Sands.,FindPlace
+Book a flight to Tokyo next Friday.,BookFlight
+What time does the National Museum open?,AskOpeningHour
+Show me hotels near Sentosa.,SearchHotel
+Plan a 3-day food tour in Singapore.,PlanItinerary
+Plan a 3-day trip to Paris.,PlanItinerary
+Can you help me organize a weekend in Rome?,PlanItinerary
+Suggest a 2-day itinerary for Tokyo.,PlanItinerary
+What can I do in Bali for 4 days?,PlanItinerary
+Plan my honeymoon in Venice.,PlanItinerary
+Recommend a 5-day trip to Kyoto.,PlanItinerary
+I want a beach getaway plan for Phuket.,PlanItinerary
+Help me plan a cultural trip to Istanbul.,PlanItinerary
+What?? a good itinerary for 3 days in Seoul?,PlanItinerary
+Show me a 4-day travel plan for Singapore.,PlanItinerary
+Design a short trip to Bangkok.,PlanItinerary
+What should I do in Dubai for 2 days?,PlanItinerary
+Help me explore Amsterdam in 3 days.,PlanItinerary
+Suggest a food-focused itinerary in Penang.,PlanItinerary
+What?? the best way to spend 5 days in London?,PlanItinerary
+Create a 3-day itinerary for New York City.,PlanItinerary
+I need a travel plan for Taiwan.,PlanItinerary
+Can you plan a 2-day nature trip in Switzerland?,PlanItinerary
+Suggest a romantic weekend plan in Santorini.,PlanItinerary
+Give me an itinerary for exploring Vietnam.,PlanItinerary
+What?? a good plan for a family trip to Seoul?,PlanItinerary
+Help me plan a heritage trip in India.,PlanItinerary
+I want a fun 4-day itinerary in Tokyo.,PlanItinerary
+Propose an eco-tourism plan in Bali.,PlanItinerary
+What to do in 3 days in Florence?,PlanItinerary
+Help me spend a week in Japan.,PlanItinerary
+What?? a luxury itinerary in Dubai?,PlanItinerary
+I?? looking for a 2-day adventure in Chiang Mai.,PlanItinerary
+Plan a trip to explore temples in Cambodia.,PlanItinerary
+What?? a short trip plan for Hong Kong?,PlanItinerary
+Suggest a kid-friendly plan for 3 days in Singapore.,PlanItinerary
+Can I get a cultural weekend plan in Hoi An?,PlanItinerary
+Make me an itinerary for a ski trip in Switzerland.,PlanItinerary
+Give me a food itinerary in Bangkok.,PlanItinerary
+What can I see in Athens in 3 days?,PlanItinerary
+Show me a 5-day plan for exploring Malaysia.,PlanItinerary
+Recommend a scenic road trip in New Zealand.,PlanItinerary
+What?? a great 3-day itinerary for Prague?,PlanItinerary
+Help me plan a solo trip to Seoul.,PlanItinerary
+Make a travel plan for Taiwan?? east coast.,PlanItinerary
+Design an itinerary for northern Thailand.,PlanItinerary
+Suggest a mountain trip in South Korea.,PlanItinerary
+Give me a relaxing beach plan in Boracay.,PlanItinerary
+I want a 4-day exploration plan in Berlin.,PlanItinerary
+Propose a hiking-focused trip in Taiwan.,PlanItinerary
+Suggest a shopping itinerary in Bangkok.,PlanItinerary
+I want to do a temple tour in Japan.,PlanItinerary
+Recommend a budget trip plan for Vietnam.,PlanItinerary
+What?? an Instagram-worthy itinerary for Paris?,PlanItinerary
+Make a honeymoon itinerary in Bali.,PlanItinerary
+Help me plan a cultural tour in Chiang Rai.,PlanItinerary
+Can you draft a street food trip in Hanoi?,PlanItinerary
+What?? a 3-day itinerary for Venice?,PlanItinerary
+Plan a trip to explore street art in Melbourne.,PlanItinerary
+I need a relaxing 2-day plan in Ubud.,PlanItinerary
+What can I do in Kuala Lumpur over the weekend?,PlanItinerary
+Suggest an itinerary for Taiwan?? night markets.,PlanItinerary
+Plan a wine tasting trip in Tuscany.,PlanItinerary
+Give me a day-by-day plan for a trip to Dubai.,PlanItinerary
+Design a backpacking route in Vietnam.,PlanItinerary
+Recommend a spiritual tour of Bali.,PlanItinerary
+Plan a girls??weekend trip in Seoul.,PlanItinerary
+Create a sightseeing itinerary for Tokyo.,PlanItinerary
+What should I do in 5 days in Istanbul?,PlanItinerary
+Recommend an architecture tour in Barcelona.,PlanItinerary
+Make me a couple?? travel plan for Kyoto.,PlanItinerary
+Help me explore Tokyo like a local.,PlanItinerary
+What?? a good beach plan for the Maldives?,PlanItinerary
+Suggest a weekend trip around Osaka.,PlanItinerary
+Recommend a nature escape near Singapore.,PlanItinerary
+Create a day trip plan in Seoul.,PlanItinerary
+Plan an offbeat trip to Malaysia.,PlanItinerary
+Suggest a night adventure in Taipei.,PlanItinerary
+Help me plan a mix of food and history in Rome.,PlanItinerary
+I want to explore historical sites in Athens.,PlanItinerary
+Show me a relaxing weekend plan in Da Nang.,PlanItinerary
+Recommend a cycling route in Taiwan.,PlanItinerary
+Plan a cafe-hopping tour in Busan.,PlanItinerary
+What?? a good 3-day adventure in Bali?,PlanItinerary
+Help me spend 4 days in Korea efficiently.,PlanItinerary
+Suggest a luxury travel plan for Bangkok.,PlanItinerary
+I want to do a temple circuit in Kyoto.,PlanItinerary
+Recommend a historical trip in Penang.,PlanItinerary
+What can I do during a stopover in Tokyo?,PlanItinerary
+Plan a sustainable travel itinerary in Bali.,PlanItinerary
+Suggest an itinerary combining city and nature in Seoul.,PlanItinerary
+I want to visit all major landmarks in Paris.,PlanItinerary
+What?? a foodie trip plan in Ho Chi Minh City?,PlanItinerary
+Help me plan a cultural weekend in Singapore.,PlanItinerary
+What are the must-dos in Taipei in 3 days?,PlanItinerary
+Recommend a beach + adventure combo in Phuket.,PlanItinerary
+Make a scenic photography tour in Iceland.,PlanItinerary
+Suggest a fast-paced sightseeing plan for London.,PlanItinerary
+I want a peaceful countryside trip in Vietnam.,PlanItinerary
+Create a travel plan around Kyoto?? temples and markets.,PlanItinerary
+Plan a solo budget itinerary for Seoul.,PlanItinerary
+Suggest a short but fun trip in Singapore.,PlanItinerary
+Help me explore art museums in Amsterdam.,PlanItinerary
+What?? a must-see-focused trip plan in Bangkok?,PlanItinerary
+Make a relaxing spa and wellness itinerary in Bali.,PlanItinerary
+Book me a flight to Tokyo next Friday.,BookFlight
+I need a round-trip ticket to London.,BookFlight
+Can you find a flight to New York for tomorrow?,BookFlight
+Reserve a flight from Singapore to Seoul.,BookFlight
+Get me a cheap flight to Bangkok.,BookFlight
+I want to fly to Sydney next week.,BookFlight
+Book a return flight from LA to Paris.,BookFlight
+Find me the earliest flight to Hong Kong.,BookFlight
+I?? looking for a flight to Dubai this weekend.,BookFlight
+Show me flights from Singapore to Bali.,BookFlight
+Book a one-way flight to Berlin.,BookFlight
+I need to fly to Jakarta tomorrow morning.,BookFlight
+What are the options for flights to Rome?,BookFlight
+Can you schedule a flight to San Francisco?,BookFlight
+Look up flights from KL to Singapore.,BookFlight
+I want to book a flight to Mumbai for next Tuesday.,BookFlight
+Arrange a morning flight to Manila.,BookFlight
+Find flights to Toronto next month.,BookFlight
+Can I get a red-eye flight to Chicago?,BookFlight
+Show me direct flights to Melbourne.,BookFlight
+I need a business class ticket to Frankfurt.,BookFlight
+Book a budget flight to Hanoi.,BookFlight
+Find me a flight to Osaka with luggage included.,BookFlight
+Schedule a trip to Madrid next Friday.,BookFlight
+Reserve two tickets to Seoul for Saturday.,BookFlight
+I want to travel to Istanbul by air.,BookFlight
+Get me an evening flight to Vancouver.,BookFlight
+I need to book a flight for my vacation to Athens.,BookFlight
+Can you check flights to Zurich?,BookFlight
+Look for flights to New Delhi on the 5th.,BookFlight
+Fly me to Barcelona in October.,BookFlight
+Book my flight to Kuala Lumpur now.,BookFlight
+I?? planning to fly to Cape Town next month.,BookFlight
+Help me get to Tokyo next weekend.,BookFlight
+Search for flights to Penang.,BookFlight
+I need an early morning flight to Bangkok.,BookFlight
+Get a ticket from Singapore to Ho Chi Minh City.,BookFlight
+Book a flight leaving Friday night to Seoul.,BookFlight
+What?? the best price for a flight to Amsterdam?,BookFlight
+Find me a non-stop flight to Sydney.,BookFlight
+I want to fly to Dubai from Singapore.,BookFlight
+Secure me a ticket to Chiang Mai.,BookFlight
+I?? looking for cheap airfare to Beijing.,BookFlight
+Get me a flight back from Jakarta next Sunday.,BookFlight
+Can I fly to Paris tomorrow?,BookFlight
+I need a ticket from Bangkok to Singapore.,BookFlight
+Book a flight that lands in Seoul in the evening.,BookFlight
+Check round-trip flights to Tokyo.,BookFlight
+Look up flights to Melbourne under $500.,BookFlight
+Book an economy seat to Seoul.,BookFlight
+Find flights from KL to Hong Kong on Monday.,BookFlight
+Book a flight for two to Singapore.,BookFlight
+Schedule a last-minute flight to Hanoi.,BookFlight
+I need to get to Kuala Lumpur this Friday.,BookFlight
+Can you book me a direct flight to Bangkok?,BookFlight
+I want a flexible ticket to Rome.,BookFlight
+Book a flight with meal service to Paris.,BookFlight
+Get me to Osaka with the shortest layover.,BookFlight
+Reserve a flight with extra baggage to London.,BookFlight
+Book me a flight to Taipei next Wednesday.,BookFlight
+Search for flights that arrive in Tokyo before noon.,BookFlight
+I want a flight from KL to Penang tonight.,BookFlight
+Find a seat on tomorrow?? flight to Seoul.,BookFlight
+Help me book a trip to Sydney.,BookFlight
+I?? flying to Jakarta next weekend??ind options.,BookFlight
+Schedule a flight from Singapore to Krabi.,BookFlight
+Book a one-way ticket to Bangkok for Saturday.,BookFlight
+Show me evening flights to Seoul.,BookFlight
+Can you find flights from KL to Tokyo this week?,BookFlight
+I?? flying to New York next month.,BookFlight
+Look up flights to Paris with good legroom.,BookFlight
+Book me a premium economy flight to Milan.,BookFlight
+I want to depart from Singapore to Osaka.,BookFlight
+What flights are available to Frankfurt next Friday?,BookFlight
+Help me fly to Bali this weekend.,BookFlight
+Reserve me a seat to Beijing on the 20th.,BookFlight
+Schedule a night flight to Seoul.,BookFlight
+I?? traveling to Istanbul on a budget??ind deals.,BookFlight
+Book a trip to Tokyo with one stop only.,BookFlight
+I need two tickets to London for next Friday.,BookFlight
+What are the earliest flights to Hong Kong?,BookFlight
+Find me a return ticket from Tokyo.,BookFlight
+Can I fly from Bangkok to Penang today?,BookFlight
+Show me flights from KL to Phuket.,BookFlight
+I want to travel to Seoul in late May.,BookFlight
+Help me book a flight with in-flight Wi-Fi.,BookFlight
+Schedule a quick flight to Jakarta.,BookFlight
+Book me a flight to Kuala Lumpur ASAP.,BookFlight
+What?? the cheapest ticket to Manila this weekend?,BookFlight
+I want to fly to Jeju Island on Monday.,BookFlight
+Book a ticket to Seoul that departs at night.,BookFlight
+Get me a ticket to New Delhi with a window seat.,BookFlight
+Can you find me a flight with no layovers to Tokyo?,BookFlight
+I?? flying to Ho Chi Minh??how me the options.,BookFlight
+Book a flight that arrives in Rome in the morning.,BookFlight
+Get me a flight from KL to Bali on Saturday.,BookFlight
+Book me a last-minute ticket to Bangkok.,BookFlight
+I want to leave for Seoul next Sunday.,BookFlight
+What?? the earliest flight to Sydney this week?,BookFlight
+Help me book a return flight to Singapore from Tokyo.,BookFlight
+Book a hotel in Toronto.,SearchHotel
+Find me a hotel in New York.,SearchHotel
+Show me top-rated hotels in Singapore.,SearchHotel
+Looking for hotels near Times Square in Lisbon.,SearchHotel
+I need a place to stay in Istanbul.,SearchHotel
+Book a hotel in Bangkok.,SearchHotel
+Hotel deals in Seoul?,SearchHotel
+Looking for hotels near Grand Palace in London.,SearchHotel
+Best hotels in Singapore?,SearchHotel
+Looking for hotels near Sagrada Familia in Tokyo.,SearchHotel
+Hotel deals in Prague?,SearchHotel
+Looking for hotels near Sagrada Familia in Toronto.,SearchHotel
+Any budget hotels in Toronto?,SearchHotel
+Show me top-rated hotels in Sydney.,SearchHotel
+Book a hotel in Singapore.,SearchHotel
+Book a hotel in Prague.,SearchHotel
+Book a hotel in Sydney.,SearchHotel
+Hotel deals in Toronto?,SearchHotel
+Can you recommend a hotel in Barcelona?,SearchHotel
+Can you recommend a hotel in Amsterdam?,SearchHotel
+Hotel deals in London?,SearchHotel
+Best hotels in Toronto?,SearchHotel
+Where can I stay in Seoul?,SearchHotel
+Looking for hotels near Colosseum in Berlin.,SearchHotel
+Find me a hotel in Prague.,SearchHotel
+Looking for hotels near Shibuya Crossing in Los Angeles.,SearchHotel
+I need a place to stay in Paris.,SearchHotel
+Where can I stay in Amsterdam?,SearchHotel
+Show me top-rated hotels in London.,SearchHotel
+Looking for hotels near Shibuya Crossing in Tokyo.,SearchHotel
+Hotel deals in Sydney?,SearchHotel
+Looking for hotels near Colosseum in Chicago.,SearchHotel
+Looking for hotels near Grand Palace in Toronto.,SearchHotel
+Find me a hotel in Rome.,SearchHotel
+Best hotels in Paris?,SearchHotel
+Find me a hotel in Tokyo.,SearchHotel
+I need a place to stay in Dubai.,SearchHotel
+Can you recommend a hotel in Los Angeles?,SearchHotel
+Looking for hotels near CN Tower in Los Angeles.,SearchHotel
+Best hotels in Istanbul?,SearchHotel
+Show me top-rated hotels in New York.,SearchHotel
+Where can I stay in Singapore?,SearchHotel
+I need a place to stay in New York.,SearchHotel
+Looking for hotels near Sagrada Familia in New York.,SearchHotel
+Find me a hotel in Chicago.,SearchHotel
+Can you recommend a hotel in Berlin?,SearchHotel
+Any budget hotels in Sydney?,SearchHotel
+Can you recommend a hotel in Singapore?,SearchHotel
+Can you recommend a hotel in New York?,SearchHotel
+Where can I stay in Los Angeles?,SearchHotel
+Looking for hotels near Shibuya Crossing in Amsterdam.,SearchHotel
+Looking for hotels near Colosseum in Barcelona.,SearchHotel
+Show me top-rated hotels in Chicago.,SearchHotel
+Can you recommend a hotel in San Francisco?,SearchHotel
+Where can I stay in Sydney?,SearchHotel
+Where can I stay in Barcelona?,SearchHotel
+Looking for hotels near Sagrada Familia in Bangkok.,SearchHotel
+Can you recommend a hotel in Bangkok?,SearchHotel
+Show me top-rated hotels in Barcelona.,SearchHotel
+I need a place to stay in Singapore.,SearchHotel
+Hotel deals in Istanbul?,SearchHotel
+Looking for hotels near the Eiffel Tower in Amsterdam.,SearchHotel
+Can you recommend a hotel in Tokyo?,SearchHotel
+Book a hotel in Dubai.,SearchHotel
+Where can I stay in New York?,SearchHotel
+Find me a hotel in Amsterdam.,SearchHotel
+Book a hotel in Rome.,SearchHotel
+Where can I stay in Lisbon?,SearchHotel
+Book a hotel in New York.,SearchHotel
+Book a hotel in San Francisco.,SearchHotel
+Where can I stay in Prague?,SearchHotel
+Any budget hotels in Lisbon?,SearchHotel
+Hotel deals in Lisbon?,SearchHotel
+Hotel deals in Barcelona?,SearchHotel
+Any budget hotels in Los Angeles?,SearchHotel
+Looking for hotels near Colosseum in Seoul.,SearchHotel
+Book a hotel in Los Angeles.,SearchHotel
+Best hotels in London?,SearchHotel
+I need a place to stay in Barcelona.,SearchHotel
+I need a place to stay in Sydney.,SearchHotel
+I need a place to stay in Lisbon.,SearchHotel
+Any budget hotels in Amsterdam?,SearchHotel
+Show me top-rated hotels in Amsterdam.,SearchHotel
+Can you recommend a hotel in Lisbon?,SearchHotel
+Best hotels in Bangkok?,SearchHotel
+I need a place to stay in Prague.,SearchHotel
+Find me a hotel in Berlin.,SearchHotel
+Find me a hotel in Lisbon.,SearchHotel
+Best hotels in Barcelona?,SearchHotel
+Can you recommend a hotel in Istanbul?,SearchHotel
+Looking for hotels near Colosseum in Tokyo.,SearchHotel
+Book a hotel in Amsterdam.,SearchHotel
+Show me top-rated hotels in Los Angeles.,SearchHotel
+Hotel deals in Berlin?,SearchHotel
+Best hotels in Prague?,SearchHotel
+I need a place to stay in London.,SearchHotel
+Book a hotel in Istanbul.,SearchHotel
+Show me top-rated hotels in Bangkok.,SearchHotel
+Where can I stay in London?,SearchHotel
+Best hotels in Rome?,SearchHotel
+What's a popular tourist spot in Seoul?,FindPlace
+Things to see in Toronto?,FindPlace
+Any nice cafes around Seoul?,FindPlace
+Suggest a place to visit in Paris.,FindPlace
+Best places to hang out in Tokyo?,FindPlace
+Any nice cafes around Tokyo?,FindPlace
+Best places to hang out in Amsterdam?,FindPlace
+Things to see in Los Angeles?,FindPlace
+Find a good restaurant in Amsterdam.,FindPlace
+Find a good restaurant in New York.,FindPlace
+What's a popular tourist spot in Barcelona?,FindPlace
+Suggest a place to visit in Toronto.,FindPlace
+Looking for a park in Toronto.,FindPlace
+Suggest a place to visit in Barcelona.,FindPlace
+Show me attractions in Rome.,FindPlace
+Suggest a place to visit in Tokyo.,FindPlace
+Any cool spots in Barcelona?,FindPlace
+Show me attractions in Seoul.,FindPlace
+Suggest a place to visit in Rome.,FindPlace
+Things to see in Istanbul?,FindPlace
+Looking for a park in Chicago.,FindPlace
+What's a popular tourist spot in London?,FindPlace
+Show me attractions in Tokyo.,FindPlace
+Best places to hang out in Barcelona?,FindPlace
+What's a popular tourist spot in Rome?,FindPlace
+Looking for a park in Dubai.,FindPlace
+Best places to hang out in Rome?,FindPlace
+Find a good restaurant in Los Angeles.,FindPlace
+Things to see in Singapore?,FindPlace
+Looking for a park in Berlin.,FindPlace
+Best places to hang out in Toronto?,FindPlace
+Show me attractions in Istanbul.,FindPlace
+Show me attractions in Paris.,FindPlace
+Find a good restaurant in Toronto.,FindPlace
+Things to see in Tokyo?,FindPlace
+Any cool spots in Dubai?,FindPlace
+Find a good restaurant in Istanbul.,FindPlace
+Any cool spots in Paris?,FindPlace
+Find a good restaurant in Paris.,FindPlace
+What's a popular tourist spot in Paris?,FindPlace
+Suggest a place to visit in Berlin.,FindPlace
+Where can I go in London?,FindPlace
+What's a popular tourist spot in Toronto?,FindPlace
+Where can I go in Chicago?,FindPlace
+Any cool spots in Tokyo?,FindPlace
+What's a popular tourist spot in Istanbul?,FindPlace
+Things to see in Paris?,FindPlace
+What's a popular tourist spot in Amsterdam?,FindPlace
+Show me attractions in Lisbon.,FindPlace
+Where can I go in Rome?,FindPlace
+Any cool spots in New York?,FindPlace
+Things to see in Barcelona?,FindPlace
+Things to see in San Francisco?,FindPlace
+Show me attractions in Toronto.,FindPlace
+Suggest a place to visit in London.,FindPlace
+Where can I go in Tokyo?,FindPlace
+Show me attractions in London.,FindPlace
+What's a popular tourist spot in Lisbon?,FindPlace
+Best places to hang out in San Francisco?,FindPlace
+Looking for a park in Sydney.,FindPlace
+Suggest a place to visit in San Francisco.,FindPlace
+What's a popular tourist spot in Tokyo?,FindPlace
+Any cool spots in Istanbul?,FindPlace
+Best places to hang out in Bangkok?,FindPlace
+Any nice cafes around Toronto?,FindPlace
+What's a popular tourist spot in Chicago?,FindPlace
+Best places to hang out in Dubai?,FindPlace
+Show me attractions in Barcelona.,FindPlace
+Any nice cafes around Amsterdam?,FindPlace
+Show me attractions in Bangkok.,FindPlace
+Suggest a place to visit in Prague.,FindPlace
+Any cool spots in London?,FindPlace
+What's a popular tourist spot in Singapore?,FindPlace
+Best places to hang out in Lisbon?,FindPlace
+Any nice cafes around Paris?,FindPlace
+Show me attractions in Amsterdam.,FindPlace
+Any nice cafes around London?,FindPlace
+Where can I go in Barcelona?,FindPlace
+Any cool spots in Seoul?,FindPlace
+Show me attractions in Berlin.,FindPlace
+Looking for a park in New York.,FindPlace
+Where can I go in Istanbul?,FindPlace
+Any cool spots in Rome?,FindPlace
+Where can I go in New York?,FindPlace
+Looking for a park in Barcelona.,FindPlace
+Find a good restaurant in Rome.,FindPlace
+Suggest a place to visit in Los Angeles.,FindPlace
+What's a popular tourist spot in San Francisco?,FindPlace
+Things to see in Seoul?,FindPlace
+Show me attractions in Singapore.,FindPlace
+Any cool spots in Prague?,FindPlace
+Suggest a place to visit in Seoul.,FindPlace
+Any nice cafes around Berlin?,FindPlace
+Any cool spots in Bangkok?,FindPlace
+Looking for a park in Paris.,FindPlace
+What's a popular tourist spot in Bangkok?,FindPlace
+Any nice cafes around Barcelona?,FindPlace
+What's a popular tourist spot in Prague?,FindPlace
+Best places to hang out in Berlin?,FindPlace
+Where can I go in Bangkok?,FindPlace
+Is Gardens by the Bay open today?,AskOpeningHour
+What time does Acropolis Museum open?,AskOpeningHour
+When does Acropolis Museum close?,AskOpeningHour
+Can I go to Marina Bay Sands now?,AskOpeningHour
+Opening hours for Burj Khalifa?,AskOpeningHour
+When can I visit The MET?,AskOpeningHour
+When is Niagara Falls open?,AskOpeningHour
+What time does British Museum close today?,AskOpeningHour
+What time does Acropolis Museum close today?,AskOpeningHour
+When is Universal Studios open?,AskOpeningHour
+What are the hours for Louvre Museum?,AskOpeningHour
+Can I go to Niagara Falls now?,AskOpeningHour
+What time does British Museum open?,AskOpeningHour
+When is Burj Khalifa open?,AskOpeningHour
+When is Grand Bazaar open?,AskOpeningHour
+What time does Marina Bay Sands close today?,AskOpeningHour
+Opening hours for Tokyo Tower?,AskOpeningHour
+When is Golden Gate Bridge open?,AskOpeningHour
+When can I visit Grand Bazaar?,AskOpeningHour
+Is Marina Bay Sands open today?,AskOpeningHour
+When can I visit Disneyland Paris?,AskOpeningHour
+What are the hours for Niagara Falls?,AskOpeningHour
+What time does Sydney Opera House open?,AskOpeningHour
+When is British Museum open?,AskOpeningHour
+When does Golden Gate Bridge close?,AskOpeningHour
+When can I visit Niagara Falls?,AskOpeningHour
+Is Grand Bazaar open now?,AskOpeningHour
+Can I go to Gardens by the Bay now?,AskOpeningHour
+When does Burj Khalifa close?,AskOpeningHour
+Is Eiffel Tower open now?,AskOpeningHour
+What time does Golden Gate Bridge open?,AskOpeningHour
+When is Vatican Museums open?,AskOpeningHour
+Is Tokyo Tower open now?,AskOpeningHour
+Is Acropolis Museum open today?,AskOpeningHour
+What are the hours for Acropolis Museum?,AskOpeningHour
+When does Sydney Opera House close?,AskOpeningHour
+What are the hours for Vatican Museums?,AskOpeningHour
+Can I go to Burj Khalifa now?,AskOpeningHour
+Opening hours for Louvre Museum?,AskOpeningHour
+What time does Vatican Museums open?,AskOpeningHour
+When does La Sagrada Familia close?,AskOpeningHour
+Can I go to The MET now?,AskOpeningHour
+When does CN Tower close?,AskOpeningHour
+When can I visit Eiffel Tower?,AskOpeningHour
+When does Eiffel Tower close?,AskOpeningHour
+Opening hours for Eiffel Tower?,AskOpeningHour
+Is Louvre Museum open today?,AskOpeningHour
+When is Colosseum open?,AskOpeningHour
+Is The MET open today?,AskOpeningHour
+When does Vatican Museums close?,AskOpeningHour
+When can I visit Acropolis Museum?,AskOpeningHour
+Opening hours for Universal Studios?,AskOpeningHour
+When can I visit Gardens by the Bay?,AskOpeningHour
+Is Acropolis Museum open now?,AskOpeningHour
+Is Vatican Museums open now?,AskOpeningHour
+Can I go to Golden Gate Bridge now?,AskOpeningHour
+What are the hours for Eiffel Tower?,AskOpeningHour
+What time does Louvre Museum close today?,AskOpeningHour
+Opening hours for Sydney Opera House?,AskOpeningHour
+What time does Burj Khalifa open?,AskOpeningHour
+When can I visit Sydney Opera House?,AskOpeningHour
+What are the hours for Central Park?,AskOpeningHour
+What time does Disneyland Paris open?,AskOpeningHour
+What time does Colosseum open?,AskOpeningHour
+Opening hours for Marina Bay Sands?,AskOpeningHour
+Opening hours for Golden Gate Bridge?,AskOpeningHour
+Is La Sagrada Familia open today?,AskOpeningHour
+Is Central Park open now?,AskOpeningHour
+What time does The MET close today?,AskOpeningHour
+What time does Colosseum close today?,AskOpeningHour
+Opening hours for Vatican Museums?,AskOpeningHour
+What are the hours for Golden Gate Bridge?,AskOpeningHour
+When does Colosseum close?,AskOpeningHour
+Opening hours for Disneyland Paris?,AskOpeningHour
+When can I visit Louvre Museum?,AskOpeningHour
+Is Sydney Opera House open today?,AskOpeningHour
+When does British Museum close?,AskOpeningHour
+When does Universal Studios close?,AskOpeningHour
+What are the hours for Tokyo Tower?,AskOpeningHour
+What are the hours for Gardens by the Bay?,AskOpeningHour
+What are the hours for Sydney Opera House?,AskOpeningHour
+Can I go to Acropolis Museum now?,AskOpeningHour
+Is Niagara Falls open today?,AskOpeningHour
+What time does Marina Bay Sands open?,AskOpeningHour
+What are the hours for CN Tower?,AskOpeningHour
+Is Central Park open today?,AskOpeningHour
+Opening hours for The MET?,AskOpeningHour
+When can I visit Universal Studios?,AskOpeningHour
+What are the hours for Colosseum?,AskOpeningHour
+Is Golden Gate Bridge open today?,AskOpeningHour
+When is Tokyo Tower open?,AskOpeningHour
+What are the hours for The MET?,AskOpeningHour
+When does Tokyo Tower close?,AskOpeningHour
+Can I go to Vatican Museums now?,AskOpeningHour
+Is Louvre Museum open now?,AskOpeningHour
+When can I visit Burj Khalifa?,AskOpeningHour
+When can I visit Tokyo Tower?,AskOpeningHour
+When can I visit Golden Gate Bridge?,AskOpeningHour
+When is Marina Bay Sands open?,AskOpeningHour
+Is Burj Khalifa open now?,AskOpeningHour
