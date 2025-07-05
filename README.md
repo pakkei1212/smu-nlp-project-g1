@@ -29,12 +29,13 @@ pip install -r requirements.txt
 ### NLP/
 - **Intent classification**: Identify if user wants to plan itinerary, book hotel/flight, etc.
   - **Dataset**: `NLP\intent_classification\intent_classification_training.csv`
+  - **Model**: https://drive.google.com/drive/folders/1qAycVI-8negnN62bry1ehAswjG8uKGIp?usp=sharing
 - **Named Entity Recognition (NER)**: Extract locations, dates, and activities
 - **Persona classification**: Infer user type for personalization
   - **Dataset**:
   1. `\NLP\persona_classification\persona_data\persona_seeds.csv`
   2. `\NLP\persona_classification\persona_data\final_train_dataset.csv`
-  - **Model**: https://drive.google.com/drive/folders/1qAycVI-8negnN62bry1ehAswjG8uKGIp?usp=sharing
+  - **Model**: https://drive.google.com/drive/folders/1aHXhJWAQ7qeeONEd92GfGYVB8KrVF1gd?usp=sharing
 
 ### RAG/
 - Uses **Qwen2.5 VL 3B** and **nomic-text-embed** to process multimodal documents (e.g., PDF with text + images)
