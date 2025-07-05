@@ -63,7 +63,7 @@ Unified notebook that stitches together the NLP → RAG.
 - Accepts a free-text travel query
 - Extracts structured constraints and persona
 - Runs RAG to generate personalized itinerary
-- Evaluates response quality
+- Dialogue management with frontend UI
 - Displays JSON output with citation and explanation
 
 You can also run:
