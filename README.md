@@ -70,3 +70,11 @@ You can also run:
 - `Evaluation/LLM-as-a-judge.ipynb`
 - `Evaluation/Perplexity.ipynb`
 - `RAG/CS605_Qwen2.5VL_draft_with_image.ipynb`
+
+## Authors
+- Ayush GURTU — ayush.gurtu.2024@mitb.smu.edu.sg  
+- LEE How Chih — howchih.lee.2024@mitb.smu.edu.sg  
+- LOK Kek Wee — kekwee.lok.2024@engd.smu.edu.sg  
+- SU Xingze — xingze.su.2024@mitb.smu.edu.sg  
+- YIP Pak Kei — pakkei.yip.2024@mitb.smu.edu.sg
+
